@@ -1,3 +1,5 @@
+print(' WELCOME TO THE LOVE CALCULATOR PROGRAM\n================================================')
+print('\n NB: This is just a game')
 your_name=input('Enter your name: ')
 your_age=int(input('Enter your age: '))
 partner_name=input('Enter your partners name: ')
